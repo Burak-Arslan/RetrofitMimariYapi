@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://G:\Android\RetrofitYapi\WebServisEgitim\WebServis.iml" filepath="G:\Android\RetrofitYapi\WebServisEgitim\WebServis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebServisEgitim.iml" filepath="$PROJECT_DIR$/WebServisEgitim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://G:\Android\RetrofitYapi\WebServisEgitim\app\app.iml" filepath="G:\Android\RetrofitYapi\WebServisEgitim\app\app.iml" />
+    </modules>
+  </component>
+</project>
